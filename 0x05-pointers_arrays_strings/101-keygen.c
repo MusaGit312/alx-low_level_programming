@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> df3b224f25da0bb2962c1f5637b0572ab8de2c95
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -13,7 +17,11 @@ int main(void)
 	int pass[100];
 	int i, sum, n;
 
+<<<<<<< HEAD
 	sum = 0;	
+=======
+	sum = 0;
+>>>>>>> df3b224f25da0bb2962c1f5637b0572ab8de2c95
 
 	srand(time(NULL));
 
@@ -33,3 +41,7 @@ int main(void)
 
 	return (0);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> df3b224f25da0bb2962c1f5637b0572ab8de2c95

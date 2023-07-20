@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> df3b224f25da0bb2962c1f5637b0572ab8de2c95
 #include "main.h"
 
 /**
@@ -20,3 +24,7 @@ void print_array(int *a, int n)
 		}
 			printf("\n");
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> df3b224f25da0bb2962c1f5637b0572ab8de2c95

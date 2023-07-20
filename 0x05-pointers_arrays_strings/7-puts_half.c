@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> df3b224f25da0bb2962c1f5637b0572ab8de2c95
 #include "main.h"
 /**
  * puts_half - a function that prints half of a string
@@ -23,3 +27,7 @@ void puts_half(char *str)
 		_putchar(str[a]);
 	_putchar('\n');
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> df3b224f25da0bb2962c1f5637b0572ab8de2c95

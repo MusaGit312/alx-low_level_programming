@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> df3b224f25da0bb2962c1f5637b0572ab8de2c95
 #include "main.h"
 /**
  * _strlen - returns the length of a string
@@ -16,3 +21,7 @@ int _strlen(char *s)
 
 	return (longi);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> df3b224f25da0bb2962c1f5637b0572ab8de2c95
